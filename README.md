@@ -26,7 +26,7 @@ https://raw.iqiq.io/Goojoe/IPTV-CN-Hubei/master/iptv-hubei.m3u
 
 ## 文件解释
 
-- iptv-hubei.m3u:抓到的全部源,由openwrt使用udpxy映射到公网,上传带宽30Mbps=3.75mb/s
+- iptv-hubei.m3u:抓到的全部源,由openwrt使用udpxy映射到公网可直接观看,上传带宽30Mbps=3.75mb/s
 
 - source.txt:未提取的iptv源
 
