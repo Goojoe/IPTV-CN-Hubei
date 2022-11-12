@@ -2,13 +2,17 @@
 
 ## 使用方法
 
-1. 从下列播放器打开下面的链接
+下载`iptv-hubei.m3u`文件
+
+替换`(routeip)`为你的路由器ip
+
+替换`(port)`为路由器udpxy端口
+
+例子
 
 ```
-https://raw.iqiq.io/Goojoe/IPTV-CN-Hubei/master/iptv-hubei.m3u
+http://10.0.0.1:4012/rtp/
 ```
-
-2. 下载`iptv-hubei.m3u`文件
 
 ### Windows
 
