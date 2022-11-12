@@ -32,7 +32,7 @@ http://10.0.0.1:4012/rtp/
 
 ## 文件解释
 
-- iptv-hubei.m3u:抓到的全部源,由openwrt使用udpxy映射到公网可直接观看,上传带宽30Mbps=3.75mb/s
+- iptv-hubei.m3u:抓到的全部源,替换自己的 openwrt路由器ip,udpxy端口即可观看
 
 - source.txt:未提取的iptv源
 
