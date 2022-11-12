@@ -5,7 +5,7 @@
 1. 从下列播放器打开下面的链接
 
 ```
-https://raw.githubusercontent.com/Goojoe/IPTV-CN-Hubei/master/iptv-hubei.m3u
+https://raw.iqiq.io/Goojoe/IPTV-CN-Hubei/master/iptv-hubei.m3u8
 ```
 
 2. 下载`iptv-hubei.m3u`文件
